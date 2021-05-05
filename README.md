@@ -1,1 +1,0 @@
-# platzi-projects
