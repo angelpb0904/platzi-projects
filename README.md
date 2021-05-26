@@ -27,3 +27,20 @@
 - JavaScrip es un lenguaje de programación que tiene interactividad, es cuando desarrollamos código para que nuestros dispositivos hagan algo. 
 
 **El Browser (Navegador) es el que toma todo los códigos y etiquetas y los interpreta y organiza y podemos ver todo lo que hemos creado.**
+
+
+## JavaScript no es Java
+
+### JS y Java no es lo mismo, son dos cosas muy diferentes, entre ellas están:
+
+**Java**
+  - Es de Oracle.
+  - Es creado para servidores.
+  - Lenguaje pensado para crear aplicaciones de escritorio.
+  - Es muy popular en bancos.
+  - Es donde se crea aplicacones para android.
+
+**JavaScript**
+  - JavaScript es el lenguaje de la web, servidores, robots, etc.
+
+  
