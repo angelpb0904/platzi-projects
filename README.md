@@ -18,4 +18,12 @@
 **Para empezar a aprender JS solo tenemos que aprende lo básico, que unas de ella son las variables, es un espacio que se crea para guardar una información.** 
 
 
+## ¿Qué es HTML/CSS/JS?
 
+### HTML, CSS y JavaScript son los tres lenguajes que están en el centro de crear aplicaciones web por tal razón, habalaremos de ellos:
+
+- HTML no es un lenguaje de promagramción, en HTML es donde vamos a encontrar toda la información de nuestra página web.
+- CCS tampoco es un lenguaje de programación, en este es donde vemos el diseño de nuestra página, todo lo relativo con los visual esta relacionado con CSS, ni en JS ni en HTML tienen que ver con eso.
+- JavaScrip es un lenguaje de programación que tiene interactividad, es cuando desarrollamos código para que nuestros dispositivos hagan algo. 
+
+**El Browser (Navegador) es el que toma todo los códigos y etiquetas y los interpreta y organiza y podemos ver todo lo que hemos creado.**
