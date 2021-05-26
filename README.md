@@ -43,4 +43,10 @@
 **JavaScript**
   - JavaScript es el lenguaje de la web, servidores, robots, etc.
 
-  
+
+## Primeros pasos en el navegador con alert
+
+- Alert es la forma que mandamos un mensaje, muestra información o resultados en la pantalla. También muestra advertencias.
+- Para poner una alerta se pone la palabra especifica "Alert", seguida de dos commilas y dentro de ellas el texto ue queremos que aparezca. Cerramos con punto y coma.
+- Para declarar una variable, solo tenemos que poner la palabra "var", luego pones el nombre de esa variable, el operador de asignación y luego su valor. Cerramos con punto y coma.
+- Las comillas se utilizan para limitar textos, porque son datos tipo string.
