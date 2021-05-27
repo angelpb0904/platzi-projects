@@ -50,3 +50,22 @@
 - Para poner una alerta se pone la palabra especifica "Alert", seguida de dos commilas y dentro de ellas el texto ue queremos que aparezca. Cerramos con punto y coma.
 - Para declarar una variable, solo tenemos que poner la palabra "var", luego pones el nombre de esa variable, el operador de asignación y luego su valor. Cerramos con punto y coma.
 - Las comillas se utilizan para limitar textos, porque son datos tipo string.
+
+## HTML, CSS, JavaScript de verdad
+
+- Muy importantes las reglas para nombrar variables en JavaScript:
+
+- No pueden empezar con números, sólo con letras.
+- Se diferencian mayúsculas y minúsculas.
+- No se pueden utilizar caracteres "raros" como ñ o tildes.
+- Para poner nombres largos se utlizanan la rayita baja.
+
+**Con este ejemplo se pudo experimentar con HTML, CSS y JS, as como:**
+
+- Nuevas etiquetas de HTML.
+- Nuevas etiquetas CCS.
+- Codigos jS.
+- Se abre una etiqueta co un nombre, y se cierra con el mismo nombre pero con el slash al final, admas se le agrega los simblos de mayor y menor en sus extremos.
+- El JavaScritp se pone el el body, y se abre una etiqueta llamada script.
+- El CCS se pone en el Head, con la etiqueta style.
+- Se utiliza "document.write" para escribir o emprimir texto en el navegador.
