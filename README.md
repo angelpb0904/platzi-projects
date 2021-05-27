@@ -69,3 +69,10 @@
 - El JavaScritp se pone el el body, y se abre una etiqueta llamada script.
 - El CCS se pone en el Head, con la etiqueta style.
 - Se utiliza "document.write" para escribir o emprimir texto en el navegador.
+
+
+## Peso en otro planeta
+
+**En este video Freddy nos enseña a como calcular el peso en otro planeta, y el nos decia que eso va depender de la fuerza de la gravedad y de nuestro peso, ya que estas son las dos variables principales para saber o cacular nuestr peso en cualquier planeta. Cabe recalcar que no todas las gravedades son las mismas en los planetas. Es decir, en MARTE voy a ser mas liviano que en la TIERRA, porque la gravedad en MARTE es 3,7 metros por segundo y en la tierra es 9,8 metros por segundo.**
+
+**Entonces, podemos calcular esto atraves de un algoritmo. Lo primero es hacer la estructura de la página, luego declaramos las variables dentro de una etiqueta script. Después declaramos la funcion que calculara nuestro peso. Y para saber si esto funciona, solo tenemos que hacer una alerta y declarar la variable peso, para que nos la diga, o simplemente imprimimos el resultado con document.write para que se vea un poo mejor. Para que el calculo no nos dé con tanto decimal es poner la funcion parseInt, es decir, nos va a redondear la ecuación.**
