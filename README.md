@@ -60,7 +60,7 @@
 - No se pueden utilizar caracteres "raros" como ñ o tildes.
 - Para poner nombres largos se utlizanan la rayita baja.
 
-**Con este ejemplo se pudo experimentar con HTML, CSS y JS, as como:**
+**Con este ejemplo se pudo experimentar con HTML, CSS y JS, asi como:**
 
 - Nuevas etiquetas de HTML.
 - Nuevas etiquetas CCS.
@@ -89,5 +89,26 @@
 - Si en nuestra consola aparecen errores, quiere decir que tenemos problemas en nuestro codigo.
 - Los espacios tambien debn de ir dentro de las comillas.
 - Las etiquetas son caracteres tipo texto, por eso deben ir dentro de las comillas.
+
+
+## Flujo y condicionales
+
+**Las condiciones son las que controlan las condiciones para poder pensar, elegir entre una y otra.**
+
+- Tenemos que hacer elegir al usuario entre las opciones que le ofrecemos atravez de las condiciones.
+- Usar un signo de igual (=) es para asignar un valor.
+- Usar dos signos de igual (==) es para comparar.
+- En los diagramas de flujo, decidimos irnos por el camino que decidamos.
+- Cuando elejimos un camino en el diagrama del flujo el otro camino nunca pasa.
+- Podemos hacer un saldo de linea de el lenguaje de JS colocando "\n".
+- Se puede poner la funcion paseInt en la misma linea que la funcion prompt, solo tener en cuenta los parentesis.
+- Cuando el if es verdad ocurre lo del bloque, cuando no es verdad no ocurre lo del bloque.
+- El if tiene una comparacion dentro de si misma.
+- if() significa: que si.
+- else significa: Sí no.
+- else if() significa: Sí no, sí.
+- Los bloques de codigos de no tieen punto y coma.
+- En una condicion se puenden poner mas de dos lineas de codigo.
+- Se debe tener pendiente los espaciones y variables cuando se concatena.
 
 
