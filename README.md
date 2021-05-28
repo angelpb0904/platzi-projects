@@ -76,3 +76,18 @@
 **En este video Freddy nos enseña a como calcular el peso en otro planeta, y el nos decia que eso va depender de la fuerza de la gravedad y de nuestro peso, ya que estas son las dos variables principales para saber o cacular nuestr peso en cualquier planeta. Cabe recalcar que no todas las gravedades son las mismas en los planetas. Es decir, en MARTE voy a ser mas liviano que en la TIERRA, porque la gravedad en MARTE es 3,7 metros por segundo y en la tierra es 9,8 metros por segundo.**
 
 **Entonces, podemos calcular esto atraves de un algoritmo. Lo primero es hacer la estructura de la página, luego declaramos las variables dentro de una etiqueta script. Después declaramos la funcion que calculara nuestro peso. Y para saber si esto funciona, solo tenemos que hacer una alerta y declarar la variable peso, para que nos la diga, o simplemente imprimimos el resultado con document.write para que se vea un poo mejor. Para que el calculo no nos dé con tanto decimal es poner la funcion parseInt, es decir, nos va a redondear la ecuación.**
+
+## Obteniendo datos del usuario
+
+**Para obtener los datos de los usuario utlizamos la funcion prompt, esto hace casi lo mimsmo que la funcion alert, en ves de eso los usuarios ingresan un valor.**
+
+- La consola del navegador, nos puede servir para verificar las variables.
+- Cuando un valor tiene comillas en el extremo es tipo texto.
+- Concatenar es pegar cadenas de textos cn variables.
+- parseInt es para traer numeros enteros.
+- parseFloat es para traer numeros flotantes, es decir decimales.
+- Si en nuestra consola aparecen errores, quiere decir que tenemos problemas en nuestro codigo.
+- Los espacios tambien debn de ir dentro de las comillas.
+- Las etiquetas son caracteres tipo texto, por eso deben ir dentro de las comillas.
+
+
