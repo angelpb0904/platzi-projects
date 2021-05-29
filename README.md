@@ -178,5 +178,22 @@
 - switch es una sentencia que se utliza cuando tenemos muchos if's en el codigo.
 
 ## Dibujar en canvas con las flechas del teclado.
-**Esta es la continuacion de dibujar con fechas del techad.**
+**Esta es la continuación de dibujar con fechas del teclas.**
+
+## Funciones matemáticas y números aleatorios en JavaScript.
+
+- Math() : Es una clase estatica que contiene una coleccion de funciones especiales que nos permiten hacer operaciones matematicas complejas.
+- Math.ceil : Devuelve el numero entero por debajo de los decimales.
+- Math.floor: Devuelve el numero entero por debajo de los decimales.
+- Math.random(): Devuelve un numero aleatorio de 0 a 0.9999
+- Return es una palabra reservada, le devuelve a la linea de código que invoco la función el valor que sigue del return.
+
+## Uso y carga de imágenes en Canvas.
+
+- En canvas se pueden poner imagenes.
+- Tenemos que esperar que la imagen cargue para ue funcione.
+- El elemento HTML canvas (<canvas>) se puede utilizar para dibujar gráficos a través de secuencias de comandos.
+- Canvas dibuja encima de las imagenes.
+- url es la direccion donde estan las cosas.
+
 
