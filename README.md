@@ -168,4 +168,15 @@
 
 ## Detectar eventos del teclado con JavaScript.
 
-- 
+- Podemos hacer que nuestro dibujo reacciones al teclado, un ejemplo puede ser con las flechas del teclado.
+- Los eventos no necesitan parámetros porque son opcionales, + (variable) que guarda todos los eventos en esa variables.
+- Keycode es el código interno del sistema operativo, es la forma en la que se almacenan letras u otras. Todas las letras tienen uno de estos.
+- keydown es un evento se usa para saber cuando precionamos una tecla.
+- keyup es un evento se usa para saber cuando soltamos una tecla.
+- Forma fácil de saber cual de las flechas estoy oprimiendo es guardándolo en una variable especial.
+- proto es la forma en que el navegador estructura los datos, y nos da muchos valores por defecto.
+- switch es una sentencia que se utliza cuando tenemos muchos if's en el codigo.
+
+## Dibujar en canvas con las flechas del teclado.
+**Esta es la continuacion de dibujar con fechas del techad.**
+
