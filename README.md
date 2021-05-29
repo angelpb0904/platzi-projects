@@ -194,6 +194,12 @@
 - Tenemos que esperar que la imagen cargue para ue funcione.
 - El elemento HTML canvas (<canvas>) se puede utilizar para dibujar gráficos a través de secuencias de comandos.
 - Canvas dibuja encima de las imagenes.
-- url es la direccion donde estan las cosas.
+- Url es la direccion donde estan las cosas.
 
+## División, módulo y residuo en JavaScript.
+
+- Para obtener el residuo de una división usamos %
+- El signo de ! significa NO, así que cuando se pone quiere decir que está negando la expresión que le sigue.
+- El operador "&&" significa "y".
+- Las funciones dejan de ejecutarse en el momento que llegan al return.
 
