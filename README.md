@@ -120,7 +120,7 @@
 - Navigator lo compone el navegador en si, posee varias funciones interesantes como el poder acceder a los discos duros del usuario, utiliza la función GPS presente en los smartphones, tablets, laptops(a través del wifi) y otros.
 - DOM es la manera en que el navegador organiza internamente el archivo HTML solicitado, dentro de un estructura que nos permite manejarlo desde JS, y crea una estructura tipo arbol.
 
-## Cómo funcionan Window y Document
+## Cómo funcionan Window y Document.
 
 **Los objetos contienen lo sieguiente**
 
@@ -132,4 +132,37 @@
 - HTML que permite al navegador interpretar los caracteres especiales como tildes, acentos, la letra ñ.
 - Console.log permite emitir mensajes que no vea el usuario.
 - Charset significa colección de letras.
+
+## Dibujando en el DOM.
+
+- Canva es la etiqueta de dibujo.
+- HTML no se puede dibujar, en JS si se puede dibujar.
+- document.getElementById: es para obtener un elemento con su id del documento.
+- getContext: es el método del objeto canvas.
+- beginPath: Arranca o activa el dibujo
+- strokeStyle: Se comporta como variable, atributo o propiedad del objeto.
+- moveTo: es funcion del canvas para definir el punto donde va arrancar la linea.
+- closePath: Cerramos el trazo, y lo damos finalizado.
+- lineTo: es para mover lineas.
+
+## Funciones en JavaScript.
+
+- Una funcion se usa cuando repetimos mucas veces el codigo, es decir cuando hay mucho código repetitivo.
+- Para declarar funciones se escribe la palabra function seguido del nombre de la funcion, seguido de los parametros de la funcion entre parentesis.
+- Los parametros son variables, por lo tanto se deben seguir las reglas de asignacion de nombres a variables.
+- En JS primero se cargan las funciones en la memoria y luego el resto del codigo, por lo tanto, no importa donde se declare la funcion dentro del codigo.
+
+## Ciclos while y for en JavaScript.
+
+- Los ciclos son piezas de código que se ejecutan de manera cíclica , hasta que se cumpla una condición.
+- Un ciclo infinito sucede cuando se invoca a un ciclo sin determinar una condición limitante, el ciclo se repite infinitamente.
+- Debemos de no crear ciclos infinitos que bloqueen el navegador.
+- En cualquier lenguaje de programacion se ejecuta primero las operaciones que estan en parentesis.
+- Un ciclo DO WHILE ejecuta una secuencia especificada hasta que se cumpla una condición determinada que actúa de limitante, como primero se ejecuta la sentencia y luego se evalúa la condición, este se ejecuta como mínimo una vez.
+
+## Eventos y Formularios en HTML y JavaScript.
+
+- Los eventos son funciones que ocurre cuando algo pasa, como abrir una pagina.
+- Tocar el teclado es uno de os eventos que nos vamos a enfretar.
+- Existen muchos tipos de eventos, pueden eser simples o sencillos.
 
