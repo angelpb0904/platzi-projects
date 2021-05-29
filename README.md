@@ -166,3 +166,6 @@
 - Tocar el teclado es uno de os eventos que nos vamos a enfretar.
 - Existen muchos tipos de eventos, pueden eser simples o sencillos.
 
+## Detectar eventos del teclado con JavaScript.
+
+- 
