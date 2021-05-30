@@ -236,8 +236,34 @@
 - Siempre es importante ir probando el codigo a medida que se va escribiendo codigo, hacerse ese hábito con el fin de detectar con más facilidad los errores que se puedan presentar.
 - Todas las cajas de texto tienen valores de texto, por mas que se ingresen numeros, por ello es necesario parsear el resultado si se desea trabajar con numeros.
 - Cast es el proceso de transformar una variable con un tipo de datos a otro.
-- Document.Write reescribe el código ya cargado anteriormente en el navegador a través de JS.
+- Document.Write reescribe el codigo ya cargado anteriormente en el navegador a traves de JS.
 - OnLoad es el vento que ocurre cuando el navegador ha cargado la página por completo, luego de este evento se ejecuta otro llamado Close.
 - InnerHTML es la manera en que podemos controlar el contenido en HTML.
 - El operador += se utilizan en operaciones matematicas, y se puede interpretar como que el valor de una variable es igual a su propio valor, mas el resto de la operacion.
 - El operador -= se aplica el mismo concepto que el operador “+=”, solo que en este caso el valor es restado.
+
+## Modelo Cliente/Servidor.
+
+- El Cliente es el navegador al que se le abre un archivo html y desde ahí se invoca un archivo js.
+- El servidor corre en la nube. Es el software sobre el que se ejcuta el backend y agarra la direccion o url que le envias en un puerto y te muestra los resultados. 
+- Backend es el codigo de programacion que corre en los servidores y que procesa los datos, tambien es el que se conecta a la base de datos.
+- Stack es una coleccion de tecnologias (Pila), El más popular es LAMP, Linux, Apache, MySQL, Php.
+- Métodos para conectar el frontend con el backend, dos de esos metodos son: 
+ - GET = Mandarle a través de la url al servidor unas variables para que el servidor las procese.
+ - POST = Los datos se envian por un camino secreto, con formularios, envia los datos en los headers http.
+ - AJAX no es necesario recargar sitio para ver nueva informacion.
+ - SOCKETS metodo especial para intercambio de datos entre el cliente y el servidor en tiempo real.
+
+ ## Primer servidor web con express.
+
+ - NodeJS es un runtime para poder correr JavaScript sin un navegador.
+ - dir = visualizar carpetas y directorios.
+ - cd = Ingresar a un directorio.
+ - ipconfig = Visualizar la configuracion de red del computador.
+ - $ indica que hay una terminal.
+ - -g = Lo usamos para hacer la instalacion global.
+ - Un framework es un conjunto de funcionalidades empaquetadas para poder realizar cosas.
+ - Una biblioteca Conjunto de codigo que te ayuda hacer algo.
+ - Un servidor es un ordenador encargado de suministrar información a una serie de clientes, que pueden ser tanto personas como otros dispositivos conectados a el.
+ - Usamos el comando ipconfig para saber nuestra direccion IP.
+ - Una IP es el numero que identifica a un dispositivo en una red interna o externa.
