@@ -267,3 +267,12 @@
  - Un servidor es un ordenador encargado de suministrar información a una serie de clientes, que pueden ser tanto personas como otros dispositivos conectados a el.
  - Usamos el comando ipconfig para saber nuestra direccion IP.
  - Una IP es el numero que identifica a un dispositivo en una red interna o externa.
+
+ ## ¿Cómo funciona un circuito electrónico?
+
+ - Los circuitos electronicos son la base de la tecnologia moderna.
+ - La electricidad se crea en plantas de energia y se alamcena en baterias.
+ - La eletricidad es flujo constante de eletrones y se mide por el voltaje.
+ - Los voltios son la fuerza que mueve la eletricidad.
+ - La eletricidad se vuelve sonido cuando haces vibrar una membrana creando ondas electricas.
+ - Un circuito dijital convierte la eletricidad en ceros y unos.
