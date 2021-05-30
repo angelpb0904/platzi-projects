@@ -203,3 +203,16 @@
 - El operador "&&" significa "y".
 - Las funciones dejan de ejecutarse en el momento que llegan al return.
 
+## Clases y Arrays en JavaScript.
+
+- Las clases son la definición de los objetos.
+- Los arrays es un tipo de datos que como si fueran en cajitas.
+- Programación Orientada a Objetos la cual se crea a partir de una clase, donde se define las características del objeto o atributos y sus capacidades o metodos.
+- Un objeto es una instancia de una Clase.
+- Propiedad es un atributo o caracteristica que lo define.
+- Metodo es la capacidad del objeto.
+- Una clase puede heredar caracteristicas de otra clase.
+- Constructor es un método llamado en el momento de la creación de instancias.
+- Encapsulamiento: es cuando una clase solo define las características del Objeto, un metodo solo define como se ejecuta el metodo.
+- Abstraccion es cuando la conjuncion de herencia compleja, metodos y propiedades que un objeto debe ser capaz de simular en un modelo de la realidad.
+- Polimorfismo son diferentes clases podrian definir el mismo metodo o propiedad.
