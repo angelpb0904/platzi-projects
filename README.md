@@ -216,3 +216,28 @@
 - Encapsulamiento: es cuando una clase solo define las características del Objeto, un metodo solo define como se ejecuta el metodo.
 - Abstraccion es cuando la conjuncion de herencia compleja, metodos y propiedades que un objeto debe ser capaz de simular en un modelo de la realidad.
 - Polimorfismo son diferentes clases podrian definir el mismo metodo o propiedad.
+
+## Diagrama de Flujo del Cajero Automático.
+
+- El algoritmo de un cajero automático consiste en darme la suma de dinero solicitada con la menor cantidad de billetes. Si le pido al cajero una suma que no es posible dada la naturaleza de los billetes disponibles me debe aparecer un error.
+- El objetivo de un algoritmo es que funcione para todos los posibles valores que le ingrese un usuario.
+- Iterar es la acción de Repetir algo usualmente referido a bucles.
+
+**Para afrontar un problema de programación siempre hagamos lo siguiente:**
+
+- Dividir el problema en partes.
+- Ilustrar el problema para entender su logica.
+- Identificar como hacemos las operaciones matematicas y convertir esto en un algoritmo.
+- Crear un diagrama de flujo que me ayude a entender com pasar todo lo anterior a codigo.
+- Implementar la solución.
+
+## Implementación del Cajero Automático.
+
+- Siempre es importante ir probando el codigo a medida que se va escribiendo codigo, hacerse ese hábito con el fin de detectar con más facilidad los errores que se puedan presentar.
+- Todas las cajas de texto tienen valores de texto, por mas que se ingresen numeros, por ello es necesario parsear el resultado si se desea trabajar con numeros.
+- Cast es el proceso de transformar una variable con un tipo de datos a otro.
+- Document.Write reescribe el código ya cargado anteriormente en el navegador a través de JS.
+- OnLoad es el vento que ocurre cuando el navegador ha cargado la página por completo, luego de este evento se ejecuta otro llamado Close.
+- InnerHTML es la manera en que podemos controlar el contenido en HTML.
+- El operador += se utilizan en operaciones matematicas, y se puede interpretar como que el valor de una variable es igual a su propio valor, mas el resto de la operacion.
+- El operador -= se aplica el mismo concepto que el operador “+=”, solo que en este caso el valor es restado.
