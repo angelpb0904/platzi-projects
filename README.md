@@ -1,4 +1,4 @@
-# CURSO DE PLATZI
+# CURSO GRATIS DE PROGRAMACION BASICA PLATZI.
 
 ## Recap Programación básica. 
 
@@ -304,9 +304,25 @@
 
 ## Cómo programar un Arduino con Javascript y Node.
 
--  Para programar un arduino con javascript debemos instalar un framework o libreria en arduino (serie de instrucciones en C que le permiten al arduino conectarse con node JS y JS).
+- Para programar un arduino con javascript debemos instalar un framework o libreria en arduino (serie de instrucciones en C que le permiten al arduino conectarse con node JS y JS).
 - Johnny five: Es una libreria para conectarse yb programar arduinos.
 - Standardfirmata: Es el firmware que me permite que arduino se conecte a johnny - five, node js.
 - Firmware: Es la “union” entre el hardware y el software.
 - Fotocelda: Es un dispositivo que es capaz de producir una pequeña cantidad de corriente eléctrica al ser expuesta a la luz.
 
+## ¿Qué lenguaje de programación aprender primero?
+
+### Python
+- Es un lenguaje de alto nivel que, a mi parecer, es de los más intuitivos e ideal para empezar a programar. Guido van Rossum tuvo la idea de crear un lenguaje tan limpio y sencillo para que hasta un niño tuviera una curva de aprendizaje intuitiva. Viene por defecto en Linux y Mac y con opción de correrlo en Windows.
+
+### Java
+- De segundo está Java. Sí, aquel lenguaje que amas u odias por ser estrictamente tipado y ser el corazón de mucho software corporativo. Sin embargo, muchos de los estándares y buenas prácticas de programación orientada a objetos nacieron de Java. Y es el encargado de traernos aplicaciones a Android.
+
+### Ruby
+- Tenemos después a Ruby. He de confesar que no he tenido un acercamiento fuerte a este lenguaje; pero he visto muchas cosas interesantes en web gracias a Ruby on Rails.
+
+### C++/C
+- La popularidad de este lenguaje no le hace justicia a su importancia. Es difícil de aprender, pero sin él muchos de los lenguajes actuales no existirían. Es el más fuerte de todos y, si algún día llegas a comprenderlo en su totalidad, entender los otros lenguajes será pan comido.
+
+### JavaScript
+- El tan versátil JavaScript, que no sólo vive en los navegadores y nos permite crear todo el flujo de interacción de nuestros websites; sino que se puede usar en cualquier capa de un proyecto: Front-end, Backend, Bases de Datos, Internet of Things, etc.
