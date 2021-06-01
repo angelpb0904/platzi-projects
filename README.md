@@ -276,3 +276,15 @@
  - Los voltios son la fuerza que mueve la eletricidad.
  - La eletricidad se vuelve sonido cuando haces vibrar una membrana creando ondas electricas.
  - Un circuito dijital convierte la eletricidad en ceros y unos.
+
+ ## ¿Cómo programar un Arduino?
+
+ - Multiplataforma funciona con dos lenguajes de progrtamacion, JS y C#.
+ - C# es una evoluncion del lenguaje de progrmacion C.
+ - El internet de las cosas es concetar objetos con el internt. 
+ - En arduino se programa con C, es uno de los lenguajes donde se derivan muchos otros.
+ - A los arduino le llegan la electricidad atraves de un cable USB.
+ - Protoboard es una tabla con orificios que estan electricamente conectados.
+ - El arduino es el primer paso para hacer juegos, realidad virtual y programar muchas cosas mas.
+
+ 
