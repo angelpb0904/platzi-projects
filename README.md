@@ -326,3 +326,5 @@
 
 ### JavaScript
 - El tan versátil JavaScript, que no sólo vive en los navegadores y nos permite crear todo el flujo de interacción de nuestros websites; sino que se puede usar en cualquier capa de un proyecto: Front-end, Backend, Bases de Datos, Internet of Things, etc.
+
+<img src="JS.png"/>
