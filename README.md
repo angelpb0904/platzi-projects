@@ -287,4 +287,18 @@
  - Protoboard es una tabla con orificios que estan electricamente conectados.
  - El arduino es el primer paso para hacer juegos, realidad virtual y programar muchas cosas mas.
 
- 
+ ## Programación de circuitos con C, Arduino y Sketch
+
+ - Arduino es un circuito especial programable se programa en sketch que es una derivación de C.
+ - En el IDE de ARDUINO, hay dos funciones en C (setup, lo que inicia cuando arranca el circuito, puertos variables y loop, lo que va ocurrir cada vez que el circuito de un loop o ciclo)
+ - Extensión .ino es la extensión de archivos de código en sketch.
+
+ ### PARTES DE LOS CIRCUITOS SON:
+ - Puerto USB: Por aqu entra el poder por USB 12V, conectando un puerto USB desde el PC al ARDUINO.
+ - Los puertos de salida digital, emite señal de 5v o nada 0v.
+ - Analogicas in, entradas analogas, permiten recibir electricidad desde el circuito.
+  - Tiene puertos de 5V (Envia energia a todo el circuito que se quiera crear en el protoboard).
+  - GND (por donde llega la energia desde la perspectiva negativa).
+- CHIPS, contiene la RAM, el DD y el procesador (CPU), aqui es donde se sube el código en C que se va a programar desde el entorno de desarrollo de ARDUINO.
+- La protoboard: Donde se colocan todos los componentes electrónicos que conformaran el circuito a programar.
+
